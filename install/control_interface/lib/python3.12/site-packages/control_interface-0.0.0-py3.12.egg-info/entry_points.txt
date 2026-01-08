@@ -1,0 +1,2 @@
+[console_scripts]
+gui = control_interface.gui:main
